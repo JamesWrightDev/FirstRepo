@@ -1,0 +1,18 @@
+body {
+    padding: 20px;
+    margin: 10px;
+}
+
+h1 {
+    color: grey;
+    font-family: roboto;
+    font-size: 3em;
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+    font-family: roboto;
+    margin: 10px;
+}
